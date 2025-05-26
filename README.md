@@ -22,10 +22,11 @@ Ce projet vise à explorer et analyser le dataset agricole de l'État du Karnata
   -Season
 
 ## Objectifs de l’analyse
-- Identifier les cultures les plus pratiquées dans chaque district
-- Étudier la variation de la production selon la saison et les cultures
-- Détecter les anomalies ou tendances particulières (haute ou faible production)
-- Visualiser les cultures dominantes par saison et région
+- Voir l’évolution de la production agricole par an
+- Voir la somme de prix du produit agricole récolté par produit et par an
+- Voir le nombre de production par produit et par an
+- Tirer des insights
+- Essayer de prédire le rendement de produit à la prochaine année
 
 ## Technologies utilisées
 - **Langage :** Python
@@ -33,17 +34,9 @@ Ce projet vise à explorer et analyser le dataset agricole de l'État du Karnata
 - **Visualisation :** Matplotlib, Seaborn
 - **Notebook :** Jupyter Notebook
 
-## Résultats clés
-- Le riz et le maïs sont les cultures les plus dominantes dans plusieurs districts.
-- La mousson est la saison la plus productive dans l’ensemble de l’État.
-- Certains districts comme **Tumkur** ou **Raichur** montrent une variation importante entre la surface cultivée et la production.
-
-## Structure du dépôt
-
-
 ## 👤 Auteur
 **Mandifera RAZAFINANDRASANA**  
 _Data Analyst | Python & Jupyter Enthusiast_  
-📧 [mandifera@email.com](mailto:mandifera@email.com)  
-💼 [LinkedIn](https://linkedin.com/in/mandifera)  
-🌐 [Portfolio](https://ton-site.com)
+📧 [mandifera@email.com](mailto:mandiferarazaf@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/mandifera-razafinandrasana-284a72212/)  
+🌐 [Portfolio](https://rm.morabeets.tech/)
